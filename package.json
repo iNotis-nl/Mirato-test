@@ -2,7 +2,7 @@
   "name": "inotis-mirato",
   "version": "1.0.0",
   "description": "Starter template for inotis projects.",
-  "homepage": "https://github.com/inotis-nl/mirato#readme",
+  "homepage": "https://github.com/iNotis-nl/Mirato#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inotis-nl/mirato.git"
+    "url": "git+https://github.com/iNotis-nl/Mirato.git"
   },
   "bugs": {
     "url": "https://github.com/inotis-nl/mirato.git/issues"
