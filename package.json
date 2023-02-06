@@ -1,8 +1,8 @@
 {
-  "name": "@inotis/mirato",
+  "name": "inotis-mirato",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Starter template for inotis projects.",
+  "homepage": "https://github.com/inotis-nl/mirato#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
